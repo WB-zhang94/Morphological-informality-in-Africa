@@ -48,13 +48,14 @@ Large raster files are not committed to GitHub. They are listed in `data_manifes
 
 ### Input predictors
 
-`data/input/<city_id>/` contains raster predictors for each city. The standard files are:
+`data/input/<city_id>/` contains raster predictors for each city. The current R workflow requires four derived predictor rasters:
 
-- `<city_id>_s2.tif`: Sentinel-2 image composite;
 - `<city_id>_ndvi.tif`: Normalized Difference Vegetation Index;
 - `<city_id>_ndbi.tif`: Normalized Difference Built-up Index;
 - `<city_id>_building_presence.tif`: building presence layer;
 - `<city_id>_building_height.tif`: building height layer.
+
+The raw or composite Sentinel-2 rasters (`<city_id>_s2*.tif`) are not read by the current scripts. They are useful only if users need to inspect the source imagery or regenerate NDVI/NDBI. For publishing the reproducible analysis package, the Sentinel-2 composites can be omitted as long as the derived NDVI and NDBI rasters are provided or can be regenerated.
 
 City identifiers correspond to the GHS Urban Centre Database field `ID_UC_G0`.
 
@@ -174,7 +175,8 @@ The repository excludes large raster and third-party reference files using `.git
 Use `data_manifest.csv` as the inventory for files that should be deposited separately. Recommended publication pattern:
 
 - Publish this GitHub repository for code, labels, fitted random forest models, and summary tables.
-- Deposit the large rasters and bulky reference files in Zenodo, Figshare, an institutional repository, or another data archive.
+- Deposit the required derived predictor rasters (`building_presence`, `building_height`, `ndvi`, `ndbi`) and large output rasters in Zenodo, Figshare, an institutional repository, or another data archive.
+- Treat Sentinel-2 composite rasters (`*_s2*.tif`) and bulky downloaded GHS-UCDB source files (`GHS_UCDB_GLOBE_R2024A.gpkg`, `GHS_UCDB_GLOBE_R2024A.xlsx`) as optional provenance/source files rather than required inputs for the current R workflow.
 - Add the data archive DOI or download URL to this README and, if needed, to the manuscript data availability statement.
 
 ## Reproducing the analysis
