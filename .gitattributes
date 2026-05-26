@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.R text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.gitkeep text eol=lf
+*.csv text eol=lf
+*.geojson text eol=lf
+
+*.tif binary
+*.tiff binary
+*.rds binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.xls binary
+*.xlsx binary
+*.gpkg binary

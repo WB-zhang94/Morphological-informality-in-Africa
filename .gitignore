@@ -1,0 +1,20 @@
+# Local R/session artifacts
+.RData
+.Rhistory
+Thumbs.db
+results/r_session/
+Code/misc/
+
+# Large geospatial rasters and sidecar files
+*.tif
+*.tiff
+*.tif.aux.xml
+
+# Large third-party reference downloads kept out of Git
+data/city_boundary/GHS_UCDB_GLOBE_R2024A.gpkg
+data/city_boundary/GHS_UCDB_GLOBE_R2024A.xlsx
+data/city_boundary/GHS_UCDB_GLOBE_R2024A.pdf
+data/city_boundary/GHS_UCDB_R2024_Online_lite.pdf
+
+# Generated figure exports can be regenerated from Code/
+results/paper_figures/
