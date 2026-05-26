@@ -10,6 +10,14 @@ Code/misc/
 *.tiff
 *.tif.aux.xml
 
+# Required predictor rasters are published with Git LFS
+!data/input/
+!data/input/**/
+!data/input/**/*_building_presence.tif
+!data/input/**/*_building_height.tif
+!data/input/**/*_ndvi.tif
+!data/input/**/*_ndbi.tif
+
 # Large third-party reference downloads kept out of Git
 data/city_boundary/GHS_UCDB_GLOBE_R2024A.gpkg
 data/city_boundary/GHS_UCDB_GLOBE_R2024A.xlsx
