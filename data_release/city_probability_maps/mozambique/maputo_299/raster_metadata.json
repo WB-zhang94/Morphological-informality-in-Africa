@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3230,
+  "height": 3281,
+  "left": 32.40178314054908,
+  "bottom": -25.98969847403235,
+  "right": 32.69193897731969,
+  "top": -25.69496122931273,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 9.317098374594934e-06,
+  "sample_max": 0.9987789988517761,
+  "city_id": "299",
+  "city": "Maputo",
+  "country": "Mozambique",
+  "value_range": [
+    0,
+    1
+  ]
+}

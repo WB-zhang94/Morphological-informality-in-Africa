@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4895,
+  "height": 2437,
+  "left": 28.011626515528565,
+  "bottom": -25.86339534508514,
+  "right": 28.45135184710507,
+  "top": -25.644475910345214,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.4700794963573571e-06,
+  "sample_max": 0.9913179278373718,
+  "city_id": "3943",
+  "city": "Pretoria",
+  "country": "South Africa",
+  "value_range": [
+    0,
+    1
+  ]
+}

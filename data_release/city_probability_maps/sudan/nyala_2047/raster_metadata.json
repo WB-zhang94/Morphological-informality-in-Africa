@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1164,
+  "height": 1182,
+  "left": 24.83329720878529,
+  "bottom": 12.003378657933457,
+  "right": 24.9378611078568,
+  "top": 12.109559524516385,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9974916577339172,
+  "city_id": "2047",
+  "city": "Nyala",
+  "country": "Sudan",
+  "value_range": [
+    0,
+    1
+  ]
+}

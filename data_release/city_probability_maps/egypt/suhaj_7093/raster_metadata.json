@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2105,
+  "height": 1786,
+  "left": 31.624830251314105,
+  "bottom": 26.503894142662364,
+  "right": 31.813925618621266,
+  "top": 26.66433325240611,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9931808710098267,
+  "city_id": "7093",
+  "city": "Suhaj",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

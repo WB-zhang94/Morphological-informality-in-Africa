@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2115,
+  "height": 2795,
+  "left": 11.420641533125124,
+  "bottom": 3.7293559020221934,
+  "right": 11.610635215716403,
+  "top": 3.9804350239335995,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9966015815734863,
+  "city_id": "2276",
+  "city": "Yaoundé",
+  "country": "Cameroon",
+  "value_range": [
+    0,
+    1
+  ]
+}

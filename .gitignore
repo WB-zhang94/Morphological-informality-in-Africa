@@ -1,9 +1,18 @@
 # Local R/session artifacts
 .RData
 .Rhistory
+Rplots.pdf
+.Rproj.user/
 Thumbs.db
 results/r_session/
+results/cache/
+results/logs/
+results/archive/
+results/runtime/
+results/sensitivity/
 Code/misc/
+manuscript/~$*.docx
+.codex_runtime/
 
 # Large geospatial rasters and sidecar files
 *.tif
@@ -18,6 +27,11 @@ Code/misc/
 !data/input/**/*_ndvi.tif
 !data/input/**/*_ndbi.tif
 
+# Public country/city release rasters are explicitly included and stored in LFS
+!data_release/
+!data_release/**/
+!data_release/**/*.tif
+
 # Large third-party reference downloads kept out of Git
 data/city_boundary/GHS_UCDB_GLOBE_R2024A.gpkg
 data/city_boundary/GHS_UCDB_GLOBE_R2024A.xlsx
@@ -26,3 +40,10 @@ data/city_boundary/GHS_UCDB_R2024_Online_lite.pdf
 
 # Generated figure exports can be regenerated from Code/
 results/paper_figures/
+
+# Local source downloads and publication working files (not part of GitHub release)
+data/KnowYourCity-data-for-research-main/
+manuscript/
+results/full_range_0_200_revision/
+**/__pycache__/
+*.py[cod]

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4509,
+  "height": 5147,
+  "left": 38.97251028624132,
+  "bottom": -7.026891646968133,
+  "right": 39.37756064785081,
+  "top": -6.564528770231815,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 4.957791679771617e-05,
+  "sample_max": 0.9995729327201843,
+  "city_id": "3570",
+  "city": "Dar es-Salaam",
+  "country": "Tanzania",
+  "value_range": [
+    0,
+    1
+  ]
+}

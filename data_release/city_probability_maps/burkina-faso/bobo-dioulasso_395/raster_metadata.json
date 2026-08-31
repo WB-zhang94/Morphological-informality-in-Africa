@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1913,
+  "height": 1634,
+  "left": -4.381981955935026,
+  "bottom": 11.123029679496327,
+  "right": -4.210134242082962,
+  "top": 11.269814396921456,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.997963547706604,
+  "city_id": "395",
+  "city": "Bobo-Dioulasso",
+  "country": "Burkina Faso",
+  "value_range": [
+    0,
+    1
+  ]
+}

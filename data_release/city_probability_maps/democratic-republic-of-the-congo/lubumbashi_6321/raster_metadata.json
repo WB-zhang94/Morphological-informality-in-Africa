@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2421,
+  "height": 2542,
+  "left": 27.368792098212637,
+  "bottom": -11.775116744238687,
+  "right": 27.586274228497974,
+  "top": -11.546764999015505,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9500142931938171,
+  "city_id": "6321",
+  "city": "Lubumbashi",
+  "country": "Democratic Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

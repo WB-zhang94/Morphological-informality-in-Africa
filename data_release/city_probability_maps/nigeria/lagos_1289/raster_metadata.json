@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 6469,
+  "height": 5055,
+  "left": 3.095235142962223,
+  "bottom": 6.41055753053373,
+  "right": 3.6763553002591416,
+  "top": 6.864655906656147,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0002746456884779036,
+  "sample_max": 0.9994080662727356,
+  "city_id": "1289",
+  "city": "Lagos",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

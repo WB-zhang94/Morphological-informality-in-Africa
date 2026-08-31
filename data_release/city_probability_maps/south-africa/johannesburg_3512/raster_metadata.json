@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 6895,
+  "height": 5536,
+  "left": 27.73647254400276,
+  "bottom": -26.427986501154262,
+  "right": 28.355860932403168,
+  "top": -25.930679159865694,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00014192363596521318,
+  "sample_max": 0.999127209186554,
+  "city_id": "3512",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "value_range": [
+    0,
+    1
+  ]
+}

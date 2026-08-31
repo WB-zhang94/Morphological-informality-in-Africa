@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2143,
+  "height": 1913,
+  "left": 2.020400905513216,
+  "bottom": 13.440413617939456,
+  "right": 2.212909870900029,
+  "top": 13.61226133179152,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9989492893218994,
+  "city_id": "548",
+  "city": "Niamey",
+  "country": "Niger",
+  "value_range": [
+    0,
+    1
+  ]
+}

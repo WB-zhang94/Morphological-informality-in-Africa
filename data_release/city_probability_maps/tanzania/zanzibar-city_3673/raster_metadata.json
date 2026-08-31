@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1140,
+  "height": 2437,
+  "left": 39.18235673661164,
+  "bottom": -6.248501453278568,
+  "right": 39.28476467900126,
+  "top": -6.02958201853864,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.991945743560791,
+  "city_id": "3673",
+  "city": "Zanzibar City",
+  "country": "Tanzania",
+  "value_range": [
+    0,
+    1
+  ]
+}

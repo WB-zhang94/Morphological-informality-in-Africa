@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3735,
+  "height": 3528,
+  "left": 10.046219148422256,
+  "bottom": 36.653239885701545,
+  "right": 10.381739907040897,
+  "top": 36.97016551793891,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.999206006526947,
+  "city_id": "1399",
+  "city": "Tunis",
+  "country": "Tunisia",
+  "value_range": [
+    0,
+    1
+  ]
+}

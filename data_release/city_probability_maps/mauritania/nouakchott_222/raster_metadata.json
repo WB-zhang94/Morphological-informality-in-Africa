@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1663,
+  "height": 2020,
+  "left": -16.03178371803904,
+  "bottom": 17.97079725881103,
+  "right": -15.882393886289965,
+  "top": 18.15225694620317,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.953100860118866,
+  "city_id": "222",
+  "city": "Nouakchott",
+  "country": "Mauritania",
+  "value_range": [
+    0,
+    1
+  ]
+}

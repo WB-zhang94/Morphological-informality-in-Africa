@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2785,
+  "height": 1982,
+  "left": 30.003640658063606,
+  "bottom": -2.0382773796671945,
+  "right": 30.253821464690894,
+  "top": -1.8602312903547051,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9921059012413025,
+  "city_id": "597",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "value_range": [
+    0,
+    1
+  ]
+}

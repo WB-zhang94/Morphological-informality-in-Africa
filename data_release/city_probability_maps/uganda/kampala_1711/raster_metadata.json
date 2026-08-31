@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3892,
+  "height": 5042,
+  "left": 32.427924115316955,
+  "bottom": 0.03233935022830281,
+  "right": 32.77754842389627,
+  "top": 0.4852699164813655,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.8362539776717313e-05,
+  "sample_max": 0.9995339512825012,
+  "city_id": "1711",
+  "city": "Kampala",
+  "country": "Uganda",
+  "value_range": [
+    0,
+    1
+  ]
+}

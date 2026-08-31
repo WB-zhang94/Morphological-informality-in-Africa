@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 5242,
+  "height": 2709,
+  "left": 2.17338399839877,
+  "bottom": 6.337524497934812,
+  "right": 2.6442808703342235,
+  "top": 6.58087810840279,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00016861587937455624,
+  "sample_max": 0.9969177842140198,
+  "city_id": "1588",
+  "city": "Cotonou",
+  "country": "Benin",
+  "value_range": [
+    0,
+    1
+  ]
+}

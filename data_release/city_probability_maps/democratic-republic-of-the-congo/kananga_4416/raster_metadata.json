@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1354,
+  "height": 993,
+  "left": 22.363020008985014,
+  "bottom": -5.940469142353984,
+  "right": 22.484651898454796,
+  "top": -5.851266434640915,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.8758361339569092,
+  "city_id": "4416",
+  "city": "Kananga",
+  "country": "Democratic Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

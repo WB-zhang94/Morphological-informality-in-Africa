@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2353,
+  "height": 2707,
+  "left": 7.184186653217461,
+  "bottom": 5.413697059746296,
+  "right": 7.395560239570784,
+  "top": 5.65687100715745,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9740895628929138,
+  "city_id": "7426",
+  "city": "Aboh",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

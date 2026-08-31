@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3360,
+  "height": 2727,
+  "left": -8.122926125122362,
+  "bottom": 12.501135156864086,
+  "right": -7.821092189658203,
+  "top": 12.746105734843479,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9965882301330566,
+  "city_id": "391",
+  "city": "Bamako",
+  "country": "Mali",
+  "value_range": [
+    0,
+    1
+  ]
+}

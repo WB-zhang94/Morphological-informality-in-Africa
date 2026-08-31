@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1116,
+  "height": 904,
+  "left": 20.734015072762677,
+  "bottom": -6.47550572557557,
+  "right": 20.834267058470417,
+  "top": -6.3942980238911655,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9255852699279785,
+  "city_id": "3562",
+  "city": "Tshikapa",
+  "country": "Democratic Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

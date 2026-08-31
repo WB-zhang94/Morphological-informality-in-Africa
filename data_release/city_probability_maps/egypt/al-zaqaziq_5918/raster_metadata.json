@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2702,
+  "height": 1527,
+  "left": 31.33422525690144,
+  "bottom": 30.53993488268296,
+  "right": 31.576950046670536,
+  "top": 30.67710762656801,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.455294568586396e-05,
+  "sample_max": 0.9840670824050903,
+  "city_id": "5918",
+  "city": "Al Zaqaziq",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

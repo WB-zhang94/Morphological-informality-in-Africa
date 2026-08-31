@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2945,
+  "height": 3178,
+  "left": 8.37409507856218,
+  "bottom": 11.840334433865765,
+  "right": 8.638648929735378,
+  "top": 12.125819031158949,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9999842047691345,
+  "city_id": "8125",
+  "city": "Kano",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2118,
+  "height": 2810,
+  "left": 7.350464812307984,
+  "bottom": 10.398358739797109,
+  "right": 7.540727989484498,
+  "top": 10.650785334634694,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9995136857032776,
+  "city_id": "7516",
+  "city": "Kaduna",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

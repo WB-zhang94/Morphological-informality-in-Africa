@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1465,
+  "height": 906,
+  "left": 16.292834139604174,
+  "bottom": -9.584934250026881,
+  "right": 16.424437328727684,
+  "top": -9.503546885285653,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.8553511500358582,
+  "city_id": "3509",
+  "city": "Malanje",
+  "country": "Angola",
+  "value_range": [
+    0,
+    1
+  ]
+}

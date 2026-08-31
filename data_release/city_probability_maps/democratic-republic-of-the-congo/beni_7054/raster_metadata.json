@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1112,
+  "height": 902,
+  "left": 29.40518301578318,
+  "bottom": 0.4609255722817264,
+  "right": 29.50507567537727,
+  "top": 0.5419536109093073,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.8152173757553101,
+  "city_id": "7054",
+  "city": "Beni",
+  "country": "Democratic Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

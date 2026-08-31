@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2575,
+  "height": 3069,
+  "left": 5.518081295760985,
+  "bottom": 6.224067277550517,
+  "right": 5.749397481421762,
+  "top": 6.499760238246798,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9923507571220398,
+  "city_id": "5935",
+  "city": "Benin City",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

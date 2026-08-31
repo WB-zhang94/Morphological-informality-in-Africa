@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4315,
+  "height": 1433,
+  "left": 31.2692770618596,
+  "bottom": 30.96834144167956,
+  "right": 31.656900106957174,
+  "top": 31.097070021893888,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00035859629861079156,
+  "sample_max": 0.9884545803070068,
+  "city_id": "5167",
+  "city": "El Mansura",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

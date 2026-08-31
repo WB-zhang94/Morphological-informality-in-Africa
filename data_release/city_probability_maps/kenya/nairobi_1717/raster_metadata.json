@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4676,
+  "height": 2792,
+  "left": 36.633207454865676,
+  "bottom": -1.3587916987591881,
+  "right": 37.053259681719965,
+  "top": -1.1079820714330177,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9991209506988525,
+  "city_id": "1717",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "value_range": [
+    0,
+    1
+  ]
+}

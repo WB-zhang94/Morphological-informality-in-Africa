@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1127,
+  "height": 1804,
+  "left": 18.49128113442988,
+  "bottom": 4.320357527444426,
+  "right": 18.59252126695015,
+  "top": 4.482413604699588,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9890601634979248,
+  "city_id": "582",
+  "city": "Bangui",
+  "country": "Central African Republic",
+  "value_range": [
+    0,
+    1
+  ]
+}

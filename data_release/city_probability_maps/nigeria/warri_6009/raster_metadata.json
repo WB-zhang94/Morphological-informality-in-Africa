@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2562,
+  "height": 1895,
+  "left": 5.65408622977668,
+  "bottom": 5.454211079060087,
+  "right": 5.884234605568102,
+  "top": 5.624441825400736,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9999560713768005,
+  "city_id": "6009",
+  "city": "Warri",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

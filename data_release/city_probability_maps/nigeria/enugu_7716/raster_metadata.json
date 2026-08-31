@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1789,
+  "height": 1987,
+  "left": 7.45242359705555,
+  "bottom": 6.361868842134451,
+  "right": 7.613132201384532,
+  "top": 6.5403640890890005,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9967797994613647,
+  "city_id": "7716",
+  "city": "Enugu",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3128,
+  "height": 3072,
+  "left": 3.780919199330654,
+  "bottom": 7.270155425907699,
+  "right": 4.06191222020324,
+  "top": 7.5461178811892164,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9983752369880676,
+  "city_id": "2880",
+  "city": "Ibadan",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

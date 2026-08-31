@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2242,
+  "height": 3246,
+  "left": 7.820014211317258,
+  "bottom": 4.822425939738827,
+  "right": 8.021416498016855,
+  "top": 5.114019080964024,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 9.89857014133122e-08,
+  "sample_max": 0.9637836813926697,
+  "city_id": "7961",
+  "city": "Uyo",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

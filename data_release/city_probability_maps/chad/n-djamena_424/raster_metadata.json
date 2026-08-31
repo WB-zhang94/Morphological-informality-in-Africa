@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2357,
+  "height": 1999,
+  "left": 14.953895208624026,
+  "bottom": 12.035987502746996,
+  "right": 15.165628121090997,
+  "top": 12.215560728042488,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9986905455589294,
+  "city_id": "424",
+  "city": "N'Djamena",
+  "country": "Chad",
+  "value_range": [
+    0,
+    1
+  ]
+}

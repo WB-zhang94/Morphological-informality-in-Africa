@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3343,
+  "height": 3186,
+  "left": 32.473917857863874,
+  "bottom": 25.53506110873946,
+  "right": 32.77422465734503,
+  "top": 25.82126435825994,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 5.4355125030269846e-05,
+  "sample_max": 0.9969407320022583,
+  "city_id": "7222",
+  "city": "Luxor",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4762,
+  "height": 3890,
+  "left": 13.060695747342136,
+  "bottom": -9.097149050749982,
+  "right": 13.488473485639851,
+  "top": -8.747704405227488,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00012508030340541154,
+  "sample_max": 0.9998714923858643,
+  "city_id": "1082",
+  "city": "Luanda",
+  "country": "Angola",
+  "value_range": [
+    0,
+    1
+  ]
+}

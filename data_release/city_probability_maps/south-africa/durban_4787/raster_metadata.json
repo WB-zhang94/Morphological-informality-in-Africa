@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3887,
+  "height": 5418,
+  "left": 30.75130846903628,
+  "bottom": -30.103802812242932,
+  "right": 31.100483619973538,
+  "top": -29.617095591306974,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.609216633369215e-05,
+  "sample_max": 0.9897788166999817,
+  "city_id": "4787",
+  "city": "Durban",
+  "country": "South Africa",
+  "value_range": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 6424,
+  "height": 3345,
+  "left": 29.64763831096704,
+  "bottom": 31.036972729386292,
+  "right": 30.22471604948542,
+  "top": 31.33745919192427,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00037101469933986664,
+  "sample_max": 0.9761869311332703,
+  "city_id": "291",
+  "city": "Alexandria",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

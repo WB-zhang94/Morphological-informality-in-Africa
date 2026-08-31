@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2225,
+  "height": 1804,
+  "left": -1.8500803276441544,
+  "bottom": 4.871024796609693,
+  "right": -1.650205176927561,
+  "top": 5.033080873864855,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9989774227142334,
+  "city_id": "1063",
+  "city": "Takoradi",
+  "country": "Ghana",
+  "value_range": [
+    0,
+    1
+  ]
+}

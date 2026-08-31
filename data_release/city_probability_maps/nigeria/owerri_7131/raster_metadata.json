@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 5115,
+  "height": 5774,
+  "left": 6.786951634579808,
+  "bottom": 5.421781897303372,
+  "right": 7.2464399024069435,
+  "top": 5.940469142353984,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 6.55580370221287e-05,
+  "sample_max": 0.9878332018852234,
+  "city_id": "7131",
+  "city": "Owerri",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2671,
+  "height": 1532,
+  "left": 45.18750457942223,
+  "bottom": 1.9896785227963283,
+  "right": 45.427444591810556,
+  "top": 2.127300424323439,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9997580647468567,
+  "city_id": "2967",
+  "city": "Mogadishu",
+  "country": "Somalia",
+  "value_range": [
+    0,
+    1
+  ]
+}

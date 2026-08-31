@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4003,
+  "height": 2525,
+  "left": 15.183324932188151,
+  "bottom": -4.514752954927891,
+  "right": 15.542920540421196,
+  "top": -4.287928345687712,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9997556805610657,
+  "city_id": "1876",
+  "city": "Kinshasa",
+  "country": "Democratic Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

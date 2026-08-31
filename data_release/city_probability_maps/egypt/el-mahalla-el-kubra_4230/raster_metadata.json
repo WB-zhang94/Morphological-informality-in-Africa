@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1794,
+  "height": 1146,
+  "left": 31.120156724695757,
+  "bottom": 30.916957807427924,
+  "right": 31.2813144866668,
+  "top": 31.01990473898802,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9921901822090149,
+  "city_id": "4230",
+  "city": "El Mahalla El Kubra",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

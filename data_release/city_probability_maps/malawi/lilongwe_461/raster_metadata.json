@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1441,
+  "height": 2095,
+  "left": 33.72284559737525,
+  "bottom": -14.053873125464676,
+  "right": 33.85229282981687,
+  "top": -13.865676073441637,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9949178099632263,
+  "city_id": "461",
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "value_range": [
+    0,
+    1
+  ]
+}

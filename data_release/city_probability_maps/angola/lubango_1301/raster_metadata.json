@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1947,
+  "height": 1734,
+  "left": 13.441761090865636,
+  "bottom": -14.97105303055071,
+  "right": 13.616663076683707,
+  "top": -14.815285160284384,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.997334897518158,
+  "city_id": "1301",
+  "city": "Lubango",
+  "country": "Angola",
+  "value_range": [
+    0,
+    1
+  ]
+}

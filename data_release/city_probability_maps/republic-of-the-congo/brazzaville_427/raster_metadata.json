@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1771,
+  "height": 1984,
+  "left": 15.162753512181816,
+  "bottom": -4.328532196529914,
+  "right": 15.321845148999383,
+  "top": -4.150306444160601,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9996136426925659,
+  "city_id": "427",
+  "city": "Brazzaville",
+  "country": "Republic of the Congo",
+  "value_range": [
+    0,
+    1
+  ]
+}

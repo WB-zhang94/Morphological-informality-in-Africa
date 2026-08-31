@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3793,
+  "height": 3337,
+  "left": -4.152013243200428,
+  "bottom": 5.211216794705756,
+  "right": -3.8112822559338935,
+  "top": 5.51098460501644,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 5.264018000161741e-06,
+  "sample_max": 0.9999492168426514,
+  "city_id": "2996",
+  "city": "Abidjan",
+  "country": "Côte d'Ivoire",
+  "value_range": [
+    0,
+    1
+  ]
+}

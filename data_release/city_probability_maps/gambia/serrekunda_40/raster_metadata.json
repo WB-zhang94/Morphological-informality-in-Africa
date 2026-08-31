@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2046,
+  "height": 2093,
+  "left": -16.776397257045712,
+  "bottom": 13.301534075014578,
+  "right": -16.592601949914858,
+  "top": 13.489551463980794,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9874765276908875,
+  "city_id": "40",
+  "city": "Serrekunda",
+  "country": "Gambia",
+  "value_range": [
+    0,
+    1
+  ]
+}

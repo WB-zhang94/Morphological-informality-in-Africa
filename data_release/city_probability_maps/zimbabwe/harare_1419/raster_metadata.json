@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3506,
+  "height": 3672,
+  "left": 30.868628445142292,
+  "bottom": -18.053352433421612,
+  "right": 31.183577783754597,
+  "top": -17.723491061092922,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9495105743408203,
+  "city_id": "1419",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "value_range": [
+    0,
+    1
+  ]
+}

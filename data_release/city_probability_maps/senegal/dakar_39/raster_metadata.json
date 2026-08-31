@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3439,
+  "height": 2007,
+  "left": -17.530802432649285,
+  "bottom": 14.643257783375496,
+  "right": -17.221871806440582,
+  "top": 14.823549660898284,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 6.259800557018025e-06,
+  "sample_max": 0.9992462396621704,
+  "city_id": "39",
+  "city": "Dakar",
+  "country": "Senegal",
+  "value_range": [
+    0,
+    1
+  ]
+}

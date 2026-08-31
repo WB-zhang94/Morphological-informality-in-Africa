@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2665,
+  "height": 1893,
+  "left": 9.593737739811253,
+  "bottom": 3.9641755172910362,
+  "right": 9.833138763029105,
+  "top": 4.134226600574862,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.997779369354248,
+  "city_id": "832",
+  "city": "Douala",
+  "country": "Cameroon",
+  "value_range": [
+    0,
+    1
+  ]
+}

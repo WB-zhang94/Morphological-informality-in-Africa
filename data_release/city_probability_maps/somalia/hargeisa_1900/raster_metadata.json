@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1346,
+  "height": 997,
+  "left": 44.00154874132764,
+  "bottom": 9.51163172284273,
+  "right": 44.12246197857013,
+  "top": 9.601193756669446,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.8946488499641418,
+  "city_id": "1900",
+  "city": "Hargeisa",
+  "country": "Somalia",
+  "value_range": [
+    0,
+    1
+  ]
+}

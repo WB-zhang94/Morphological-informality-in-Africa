@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2337,
+  "height": 2435,
+  "left": 6.8999596973220445,
+  "bottom": 4.733313063554171,
+  "right": 7.109895979220776,
+  "top": 4.952052835237274,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9995219111442566,
+  "city_id": "7209",
+  "city": "Port Harcourt",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

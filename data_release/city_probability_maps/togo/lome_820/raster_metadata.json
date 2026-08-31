@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4127,
+  "height": 2076,
+  "left": 1.08139193902308,
+  "bottom": 6.1106100571662205,
+  "right": 1.4521266567792064,
+  "top": 6.297100310149434,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00012570564285852015,
+  "sample_max": 0.9987180829048157,
+  "city_id": "820",
+  "city": "Lomé",
+  "country": "Togo",
+  "value_range": [
+    0,
+    1
+  ]
+}

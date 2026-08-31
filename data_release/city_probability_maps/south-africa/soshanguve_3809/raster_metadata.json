@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4973,
+  "height": 3371,
+  "left": 27.87705888596746,
+  "bottom": -25.62767741453218,
+  "right": 28.3237910767601,
+  "top": -25.32485533225549,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 8.70287767611444e-05,
+  "sample_max": 0.8805702328681946,
+  "city_id": "3809",
+  "city": "Soshanguve",
+  "country": "South Africa",
+  "value_range": [
+    0,
+    1
+  ]
+}

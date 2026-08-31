@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2864,
+  "height": 2101,
+  "left": 28.175389391823554,
+  "bottom": -15.495758988004921,
+  "right": 28.432666889195385,
+  "top": -15.30702294681141,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9960511922836304,
+  "city_id": "1517",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "value_range": [
+    0,
+    1
+  ]
+}

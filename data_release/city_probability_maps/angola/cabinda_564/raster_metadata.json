@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1557,
+  "height": 1535,
+  "left": 12.158517707500899,
+  "bottom": -5.648786169600375,
+  "right": 12.298385397238308,
+  "top": -5.510894773488029,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 1.0,
+  "city_id": "564",
+  "city": "Cabinda",
+  "country": "Angola",
+  "value_range": [
+    0,
+    1
+  ]
+}

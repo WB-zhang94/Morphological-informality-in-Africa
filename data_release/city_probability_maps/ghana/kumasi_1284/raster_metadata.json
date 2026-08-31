@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3794,
+  "height": 2438,
+  "left": -1.7736336969655833,
+  "bottom": 6.580788276874379,
+  "right": -1.4328128781706368,
+  "top": 6.799797543142718,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9995627999305725,
+  "city_id": "1284",
+  "city": "Kumasi",
+  "country": "Ghana",
+  "value_range": [
+    0,
+    1
+  ]
+}

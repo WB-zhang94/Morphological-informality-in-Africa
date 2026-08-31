@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1824,
+  "height": 1551,
+  "left": -15.968362658980203,
+  "bottom": 14.782496652414022,
+  "right": -15.804509951156803,
+  "top": 14.92182535298096,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9997308850288391,
+  "city_id": "1763",
+  "city": "Touba",
+  "country": "Senegal",
+  "value_range": [
+    0,
+    1
+  ]
+}

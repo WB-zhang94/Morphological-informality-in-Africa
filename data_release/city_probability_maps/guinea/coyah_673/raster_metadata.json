@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3777,
+  "height": 3531,
+  "left": -13.697062294612405,
+  "bottom": 9.519806391928217,
+  "right": -13.357768611800461,
+  "top": 9.83700151875082,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.575257738295477e-05,
+  "sample_max": 0.9979279637336731,
+  "city_id": "673",
+  "city": "Coyah",
+  "country": "Guinea",
+  "value_range": [
+    0,
+    1
+  ]
+}

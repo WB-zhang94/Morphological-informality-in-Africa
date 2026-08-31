@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4976,
+  "height": 2155,
+  "left": 2.8858378502339628,
+  "bottom": 36.626919247876835,
+  "right": 3.3328395356118365,
+  "top": 36.82050619160459,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 5.550681089516729e-05,
+  "sample_max": 0.9911219477653503,
+  "city_id": "3397",
+  "city": "Algiers",
+  "country": "Algeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

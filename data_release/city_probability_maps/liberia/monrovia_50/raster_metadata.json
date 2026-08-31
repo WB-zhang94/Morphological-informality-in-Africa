@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2693,
+  "height": 2798,
+  "left": -10.826675467265297,
+  "bottom": 6.207897602436365,
+  "right": -10.58475916125191,
+  "top": 6.459246218933007,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9999334812164307,
+  "city_id": "50",
+  "city": "Monrovia",
+  "country": "Liberia",
+  "value_range": [
+    0,
+    1
+  ]
+}

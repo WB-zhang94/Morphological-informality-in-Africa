@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2276,
+  "height": 1950,
+  "left": -0.715148797687551,
+  "bottom": 35.600773698827105,
+  "right": -0.5106922390219479,
+  "top": 35.77594517923041,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9995303750038147,
+  "city_id": "945",
+  "city": "Oran",
+  "country": "Algeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

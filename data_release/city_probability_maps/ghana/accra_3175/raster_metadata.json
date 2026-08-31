@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 6573,
+  "height": 3880,
+  "left": -0.5203940440904388,
+  "bottom": 5.454211079060086,
+  "right": 0.07006859216132266,
+  "top": 5.802757409298461,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00015777803491801023,
+  "sample_max": 0.9997771978378296,
+  "city_id": "3175",
+  "city": "Accra",
+  "country": "Ghana",
+  "value_range": [
+    0,
+    1
+  ]
+}

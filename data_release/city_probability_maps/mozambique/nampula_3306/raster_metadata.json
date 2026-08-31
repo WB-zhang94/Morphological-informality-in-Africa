@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1827,
+  "height": 1096,
+  "left": 39.18675848150382,
+  "bottom": -15.175958746858372,
+  "right": 39.35088068391246,
+  "top": -15.077503391718873,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9813959002494812,
+  "city_id": "3306",
+  "city": "Nampula",
+  "country": "Mozambique",
+  "value_range": [
+    0,
+    1
+  ]
+}

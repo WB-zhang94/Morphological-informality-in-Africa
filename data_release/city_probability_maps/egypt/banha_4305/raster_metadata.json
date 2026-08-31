@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3107,
+  "height": 3525,
+  "left": 31.013796195056006,
+  "bottom": 30.274752210810878,
+  "right": 31.292902753831942,
+  "top": 30.59140834846301,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 3.28760506818071e-05,
+  "sample_max": 0.9940525889396667,
+  "city_id": "4305",
+  "city": "Banha",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

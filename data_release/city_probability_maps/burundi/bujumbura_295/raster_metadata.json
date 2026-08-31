@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 1571,
+  "height": 2163,
+  "left": 29.295498719592185,
+  "bottom": -3.4947159498101743,
+  "right": 29.436624050727364,
+  "top": -3.300410353855122,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.995294451713562,
+  "city_id": "295",
+  "city": "Bujumbura",
+  "country": "Burundi",
+  "value_range": [
+    0,
+    1
+  ]
+}

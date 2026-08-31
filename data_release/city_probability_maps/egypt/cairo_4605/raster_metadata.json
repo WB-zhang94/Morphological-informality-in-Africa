@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 5776,
+  "height": 7800,
+  "left": 31.01568265715266,
+  "bottom": 29.668209730973373,
+  "right": 31.534549565260097,
+  "top": 30.368895652586602,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0005823984392918646,
+  "sample_max": 0.9937099814414978,
+  "city_id": "4605",
+  "city": "Cairo",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

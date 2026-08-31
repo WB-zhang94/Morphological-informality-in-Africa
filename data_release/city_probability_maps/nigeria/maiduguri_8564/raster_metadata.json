@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2161,
+  "height": 1363,
+  "left": 13.06276187249561,
+  "bottom": 11.775026912710276,
+  "right": 13.25688780539384,
+  "top": 11.897467285935766,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9998407959938049,
+  "city_id": "8564",
+  "city": "Maiduguri",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

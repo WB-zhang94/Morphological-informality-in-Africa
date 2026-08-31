@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2938,
+  "height": 1413,
+  "left": 31.036254077158997,
+  "bottom": 27.12040792215359,
+  "right": 31.300179107633312,
+  "top": 27.247339871799678,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9956897497177124,
+  "city_id": "6776",
+  "city": "Asyut",
+  "country": "Egypt",
+  "value_range": [
+    0,
+    1
+  ]
+}

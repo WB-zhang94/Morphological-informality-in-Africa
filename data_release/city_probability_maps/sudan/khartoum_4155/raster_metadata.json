@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 5186,
+  "height": 5846,
+  "left": 32.27404270714728,
+  "bottom": 15.290673608640436,
+  "right": 32.73990901349166,
+  "top": 15.815828723736708,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.00046803097939118743,
+  "sample_max": 0.9883002638816833,
+  "city_id": "4155",
+  "city": "Khartoum",
+  "country": "Sudan",
+  "value_range": [
+    0,
+    1
+  ]
+}

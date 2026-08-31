@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 2021,
+  "height": 1718,
+  "left": 4.480257648017702,
+  "bottom": 8.398439422761818,
+  "right": 4.661807166938257,
+  "top": 8.552769988573552,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.984623908996582,
+  "city_id": "4183",
+  "city": "Ilorin",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}

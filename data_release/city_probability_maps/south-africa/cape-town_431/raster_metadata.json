@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 4384,
+  "height": 3384,
+  "left": 18.36982890801692,
+  "bottom": -34.110019484830765,
+  "right": 18.76365032857492,
+  "top": -33.806029592684716,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 1.743137909215875e-05,
+  "sample_max": 0.9999386072158813,
+  "city_id": "431",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "value_range": [
+    0,
+    1
+  ]
+}

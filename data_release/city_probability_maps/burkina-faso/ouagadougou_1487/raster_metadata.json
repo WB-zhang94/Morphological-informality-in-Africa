@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3046,
+  "height": 2726,
+  "left": -1.670596933877074,
+  "bottom": 12.23999490377054,
+  "right": -1.3969700983342679,
+  "top": 12.484875650221522,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9990627765655518,
+  "city_id": "1487",
+  "city": "Ouagadougou",
+  "country": "Burkina Faso",
+  "value_range": [
+    0,
+    1
+  ]
+}

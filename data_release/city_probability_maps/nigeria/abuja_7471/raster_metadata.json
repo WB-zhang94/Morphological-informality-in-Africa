@@ -1,0 +1,20 @@
+{
+  "crs": "EPSG:4326",
+  "width": 3012,
+  "height": 2806,
+  "left": 7.290996340499272,
+  "bottom": 8.942638821881424,
+  "right": 7.561568904076072,
+  "top": 9.194706090605361,
+  "dtype": "float32",
+  "nodata": null,
+  "sample_min": 0.0,
+  "sample_max": 0.9991477727890015,
+  "city_id": "7471",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "value_range": [
+    0,
+    1
+  ]
+}
