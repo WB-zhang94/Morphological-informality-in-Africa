@@ -173,10 +173,11 @@ def save_label_preview(
 
     fig, ax = plt.subplots(figsize=(8.4, 7.2), constrained_layout=True)
     ax.imshow(background, extent=extent, origin="upper", cmap="Greys", vmin=0, vmax=upper, alpha=0.72)
+    kyc_colour = "#FFD400"
     for geometry, _ in kyc_geometries:
-        draw_geometry(ax, geometry, edgecolor="#555555", linewidth=1.0, alpha=0.85, zorder=2)
+        draw_geometry(ax, geometry, edgecolor=kyc_colour, linewidth=1.6, alpha=0.95, zorder=2)
 
-    legend = [Line2D([0], [0], color="#555555", lw=1.5, label="KYC cleaned settlement boundary")]
+    legend = [Line2D([0], [0], color=kyc_colour, lw=2.5, label="KYC cleaned settlement boundary")]
     title_prefix = "KYC source labels"
     if model_geometries is not None:
         for geometry, class_value in model_geometries:
